@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <cn.edu.usts.moocwork12.GestureDemoView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <ViewFlipper
+        android:id="@+id/viewFlipper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:flipInterval="4000"
+        android:autoStart="true"
+        android:inAnimation="@anim/push_top_in"
+        android:outAnimation="@anim/push_top_out">
+        <ImageView
+            android:layout_margin="10dp"
+            android:id="@+id/view"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_gravity="center"
+            android:scaleType="fitXY"
+            />
+    </ViewFlipper>
+    </cn.edu.usts.moocwork12.GestureDemoView>
+
+</LinearLayout>

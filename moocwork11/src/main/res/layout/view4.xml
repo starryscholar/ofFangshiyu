@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@mipmap/scenery01"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="漫步林荫，慢走时光"
+        android:gravity="center"
+        android:textSize="30dp"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="50dp"
+        android:textColor="#ffffff"/>
+
+</FrameLayout>

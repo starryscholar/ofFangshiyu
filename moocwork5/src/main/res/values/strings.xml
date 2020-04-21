@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">workfive</string>
+    <string-array name="provinceArray">
+        <item>江苏</item>
+        <item>河北</item>
+        <item>山西</item>
+        <item>辽宁</item>
+        <item>吉林</item>
+        <item>黑龙江</item>
+        <item>浙江</item>
+        <item>安徽</item>
+        <item>福建</item>
+    </string-array>
+    <string-array name="cityOfJiangSu">
+        <item>南京</item>
+        <item>苏州</item>
+        <item>徐州</item>
+        <item>常州</item>
+        <item>无锡</item>
+    </string-array>
+    <string-array name="cityOfHeBei">
+        <item>石家庄</item>
+        <item>唐山</item>
+        <item>秦皇岛</item>
+        <item>邯郸</item>
+        <item>邢台</item>
+    </string-array>
+    <string-array name="dirOfSuzhou">
+        <item>姑苏</item>
+        <item>虎丘</item>
+        <item>吴中</item>
+        <item>相城</item>
+        <item>吴江</item>
+    </string-array>
+    <string-array name="dirOfNanJing">
+        <item>玄武</item>
+        <item>秦淮</item>
+        <item>建邺</item>
+        <item>鼓楼</item>
+        <item>雨花台</item>
+    </string-array>
+</resources>

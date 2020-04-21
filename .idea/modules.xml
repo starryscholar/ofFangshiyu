@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/game/game.iml" filepath="$PROJECT_DIR$/game/game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocWork4/moocWork4.iml" filepath="$PROJECT_DIR$/moocWork4/moocWork4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork10/moocwork10.iml" filepath="$PROJECT_DIR$/moocwork10/moocwork10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork11/moocwork11.iml" filepath="$PROJECT_DIR$/moocwork11/moocwork11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork12/moocwork12.iml" filepath="$PROJECT_DIR$/moocwork12/moocwork12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork13/moocwork13.iml" filepath="$PROJECT_DIR$/moocwork13/moocwork13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork14/moocwork14.iml" filepath="$PROJECT_DIR$/moocwork14/moocwork14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork16/moocwork16.iml" filepath="$PROJECT_DIR$/moocwork16/moocwork16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork5/moocwork5.iml" filepath="$PROJECT_DIR$/moocwork5/moocwork5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork6/moocwork6.iml" filepath="$PROJECT_DIR$/moocwork6/moocwork6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork7/moocwork7.iml" filepath="$PROJECT_DIR$/moocwork7/moocwork7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork8/moocwork8.iml" filepath="$PROJECT_DIR$/moocwork8/moocwork8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moocwork9/moocwork9.iml" filepath="$PROJECT_DIR$/moocwork9/moocwork9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCal/myCal.iml" filepath="$PROJECT_DIR$/myCal/myCal.iml" />
+    </modules>
+  </component>
+</project>

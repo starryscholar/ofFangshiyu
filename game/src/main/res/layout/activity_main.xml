@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@mipmap/bg"
+    android:orientation="vertical"
+    android:gravity="center">
+    <Button
+        android:id="@+id/btnpvp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PVP"
+        android:textSize="40dp"
+        android:textColor="#ffffff"
+        android:layout_margin="10dp"
+        />
+    <Button
+        android:id="@+id/btnpvc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PVC"
+        android:textSize="40dp"
+        android:textColor="#ffffff"
+        android:layout_margin="10dp"
+        />
+
+
+</LinearLayout>

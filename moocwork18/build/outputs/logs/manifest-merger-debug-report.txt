@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+application
+ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\11616\.android\build-cache\e1ab8ac6548683772e6b28b3bbb44fc13071d48d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\11616\.android\build-cache\11543cb90cf32a0ee5c6a3f45982d0d5aef8a7b7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\11616\.android\build-cache\d6d985f93cd9b57c4a2f690cf1f5736877454c24\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\11616\.android\build-cache\b6aef11b940c4bf8c50a0bdfb34ce85aa0fb3892\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\11616\.android\build-cache\8525116d33f538fabbfaa1340c5d1131efc5db5a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\11616\.android\build-cache\e9a404f9fe4fac9a0708efeb9b53e4baabebc760\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\11616\.android\build-cache\fe3ebf67aa489ea4bd182931993490806daba3f2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\11616\.android\build-cache\9cd61e2a230615b85568d5a08bd9d00cb78c2e29\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\11616\.android\build-cache\42ffe3379cff87000154ebeec3865132be56f7e8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\11616\.android\build-cache\9ac6875ab1767921cf9920a0256aa2747ad2fe5c\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:11:9-40
+activity#cn.edu.usts.moocwork18.MainActivity
+ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:16:27-74
+activity#cn.edu.usts.moocwork18.ClockActivity
+ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:19:19-48
+uses-permission#android.permission.VIBRATE
+ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml:21:22-63
+uses-sdk
+INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\11616\.android\build-cache\e1ab8ac6548683772e6b28b3bbb44fc13071d48d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\11616\.android\build-cache\11543cb90cf32a0ee5c6a3f45982d0d5aef8a7b7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\11616\.android\build-cache\d6d985f93cd9b57c4a2f690cf1f5736877454c24\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\11616\.android\build-cache\b6aef11b940c4bf8c50a0bdfb34ce85aa0fb3892\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\11616\.android\build-cache\8525116d33f538fabbfaa1340c5d1131efc5db5a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\11616\.android\build-cache\e9a404f9fe4fac9a0708efeb9b53e4baabebc760\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\11616\.android\build-cache\fe3ebf67aa489ea4bd182931993490806daba3f2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\11616\.android\build-cache\9cd61e2a230615b85568d5a08bd9d00cb78c2e29\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\11616\.android\build-cache\42ffe3379cff87000154ebeec3865132be56f7e8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\11616\.android\build-cache\9ac6875ab1767921cf9920a0256aa2747ad2fe5c\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\11616\.android\build-cache\e1ab8ac6548683772e6b28b3bbb44fc13071d48d\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+		INJECTED from D:\SoftWare\Andrio_code\first_project\MyApplication\moocwork18\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\11616\.android\build-cache\e1ab8ac6548683772e6b28b3bbb44fc13071d48d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\11616\.android\build-cache\11543cb90cf32a0ee5c6a3f45982d0d5aef8a7b7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\11616\.android\build-cache\d6d985f93cd9b57c4a2f690cf1f5736877454c24\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\11616\.android\build-cache\b6aef11b940c4bf8c50a0bdfb34ce85aa0fb3892\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\11616\.android\build-cache\8525116d33f538fabbfaa1340c5d1131efc5db5a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\11616\.android\build-cache\e9a404f9fe4fac9a0708efeb9b53e4baabebc760\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\11616\.android\build-cache\fe3ebf67aa489ea4bd182931993490806daba3f2\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\11616\.android\build-cache\9cd61e2a230615b85568d5a08bd9d00cb78c2e29\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\11616\.android\build-cache\42ffe3379cff87000154ebeec3865132be56f7e8\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\11616\.android\build-cache\e1ab8ac6548683772e6b28b3bbb44fc13071d48d\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\11616\.android\build-cache\e1ab8ac6548683772e6b28b3bbb44fc13071d48d\output\AndroidManifest.xml:26:9-47

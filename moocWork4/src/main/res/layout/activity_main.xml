@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#fbe35d"
+    android:padding="5dp"
+     >
+        <ImageView
+            android:id="@+id/Img1"
+            android:layout_marginLeft="35dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/home"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 首页"
+            android:layout_below="@+id/Img1"
+            android:layout_alignLeft="@+id/Img1"
+            android:textSize="19dp"/>
+        <ImageView
+            android:id="@+id/Img2"
+            android:layout_toRightOf="@+id/Img1"
+            android:layout_marginLeft="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/diretory"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 目录"
+            android:layout_below="@+id/Img2"
+            android:layout_alignLeft="@+id/Img2"
+            android:textSize="19dp"/>
+        <ImageView
+            android:id="@+id/Img3"
+            android:layout_toRightOf="@+id/Img2"
+            android:layout_marginLeft="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/message"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 消息"
+            android:layout_below="@+id/Img3"
+            android:layout_alignLeft="@+id/Img3"
+            android:textSize="19dp"/>
+        <ImageView
+            android:id="@+id/Img4"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="35dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/set"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 设置"
+            android:layout_below="@+id/Img4"
+            android:layout_alignLeft="@+id/Img4"
+            android:textSize="19dp"/>
+    </RelativeLayout>
+

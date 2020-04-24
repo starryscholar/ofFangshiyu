@@ -1,0 +1,4 @@
+#Fri Apr 24 16:06:31 CST 2020
+base.0=D\:\\SoftWare\\Andrio_code\\first_project\\MyApplication\\moocwork19\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=D\:\\SoftWare\\Andrio_code\\first_project\\MyApplication\\moocwork19\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

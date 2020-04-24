@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/ll_root"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="62dp"
+    android:background="#fffefe"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp">
+
+    <ImageView
+        android:layout_marginLeft="0dp"
+        android:paddingLeft="0dp"
+        android:layout_width="62dp"
+        android:layout_height="62dp"
+        android:background="@drawable/flower"/>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_marginLeft="70dp"
+                android:id="@+id/tv_content_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="江苏民歌--茉莉花"
+                android:textColor="#030303"/>
+            <Button
+                android:layout_marginLeft="80dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/close2"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <Button
+                android:layout_marginLeft="40dp"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/reverse"/>
+
+            <Button
+
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/stop"/>
+            <Button
+
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/speed"/>
+            <Button
+
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="8dp"
+                android:background="@drawable/love"/>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

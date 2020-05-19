@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_margin="2dp"
+    android:background="#fbd1d1">
+    <ImageView
+        android:layout_width="72dp"
+        android:layout_height="match_parent"
+        android:src="@mipmap/contacter"/>
+    <LinearLayout
+        android:layout_marginLeft="25dp"
+        android:layout_width="144dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical">
+        <TextView
+
+            android:textSize="20dp"
+            android:text="text1"
+            android:id="@+id/item_tvname"
+            android:layout_width="match_parent"
+            android:layout_height="24dp" />
+        <TextView
+            android:textSize="20dp"
+            android:text="text2"
+            android:id="@+id/item_tvtel"
+            android:layout_width="match_parent"
+            android:layout_height="24dp"  />
+        <TextView
+            android:textSize="20dp"
+            android:text="text3"
+            android:id="@+id/item_tvaddress"
+            android:layout_width="match_parent"
+            android:layout_height="24dp"  />
+    </LinearLayout>
+
+</LinearLayout>
